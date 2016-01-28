@@ -1,6 +1,6 @@
-===================================================
-Image Recognition - Python - Open CV Implementation
-===================================================
+================================================
+Image Recognition - Python-OpenCV Implementation
+================================================
 
 * Image Recognition using SIFT and BRISK feature detectors
 
@@ -31,3 +31,4 @@ References
 ----------
 
 * S. Lazebnik, C. Schmid, and J. Ponce, “Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories”, IEEE CVPR, 2006
+* https://github.com/wihoho/Image-Recognition
