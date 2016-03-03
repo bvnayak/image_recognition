@@ -6,8 +6,8 @@ Image Recognition - Python-OpenCV Implementation
 
 Installation
 ------------
-* We are using the latest opencv library version 3.0.0rc1
-* Run pip install -r requirements.txt
+* We are using the latest `opencv` library version `3.0.0rc1`
+* Run `pip install -r requirements.txt`
 * Test running it by `python beyondbagsoffeatures.py`
 
 Dependencies
