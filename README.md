@@ -27,6 +27,11 @@ Test Data Set
 * User can change the dataset one wants to run by commenting the `line#30-37` of `beyondbagsoffeatures.py`.
 * User can switch between SIFT and BRISK by setting `sift=False` on `line#28`
 
+Results
+-------
+![alt tag](https://github.com/bvnayak/image_recognition/blob/master/results/result1.png)
+![alt tag](https://github.com/bvnayak/image_recognition/blob/master/results/result2.png)
+
 References
 ----------
 
